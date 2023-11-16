@@ -97,3 +97,10 @@ for pages in range(6,7):
 
 # docker build -t scraper .
 # docker run --name scraper -v "$(pwd)/imagenes:/app/imagenes" scraper python scraper.py
+
+
+
+# git status - cambios
+# git add . - agrega cambios disponibles
+# git commit -message "text comit"   -
+# git push - cambio se guarda en repo
